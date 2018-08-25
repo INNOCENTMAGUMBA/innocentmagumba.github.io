@@ -1,0 +1,466 @@
+# innocentmagumba.github.io
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>matakemehome.home</title>
+<style type="text/css">
+body{
+	background-color: rgba(239, 242, 244, 1);
+}
+	.header{
+		background-color: #111111;
+		margin-bottom: 15px;
+
+	}
+	h1{
+		color: white;
+		display: inline-block;
+		padding-left: 150px;
+		font-weight: bold;
+		font-size: 40px;
+		font-family: 'Contrail One', cursive;<!DOCTYPE html>
+		<html>
+		<head>
+			<title>matakemehome.home</title>
+		</head>
+		<body>
+		
+		</body>
+		</html>
+	}
+	footer{
+		border: #001f3f;
+		padding: 5px;
+		background-color: #a67c00;
+		border-radius: 15px;
+		resize: auto;
+		color: white;
+		font-weight: bold;
+		text-align: center;
+		font-style: italic;
+
+	}
+	button{
+		border: #001f3f;
+		padding: 5px;
+		background-color: #35D228  ;
+		border-radius: 3px;
+		margin-left: 5px;
+		color: white;
+		font-weight: bold;
+		text-align: center;
+		resize: auto;
+
+	}
+	input{
+		display: inline-block;
+		margin-bottom: 8px;
+		align-items: center;
+	}
+	.form1{
+		margin: 0 auto;
+		width: 50%;
+		
+		border: 1px #111111;
+		background-color: #001f3f;
+		
+		align-content: center;
+		text-align: center;
+		height: 65%;
+		border-radius: 15px;
+	}
+	div.work1{
+		border: 2px solid-round;
+    padding: 20px; 
+    width: 300px;
+    resize: both;
+    
+		
+
+	}
+div{
+	align-items: center;
+	align-content: center;
+	column-width: 50%;
+}
+
+
+	
+</style>
+
+<div class="header">
+	<h1 >matakemehome.home</h1>
+	<button>move on</button>
+	<head>
+<!-- Font Awesome Icon Library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.checked {
+    color: orange;
+}
+</style>
+</head>
+<body>
+
+
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+<span class="fa fa-star"></span>
+
+</body>
+	</div>
+
+<div class="form1">
+	<p><button style="color:#001f3f; border: 1px  #807c8e; border-radius: 5px; background-color: #dddddd; font-size: 25px"><em>Register With Us</em></button></p>
+	<input style="color:green;" type="text" name="Email" placeholder="Email or phone">
+	<input type="password" name="password" placeholder="password"><br>
+	<!--<input style="color:#dddddd; background-color: #dddddd;" type="submit" name="Log In" value="Tap In">-->
+	<button><em>Tap in</em></button>
+	<button style="color:#001f3f; border: 1px #3d9970; border-radius: 15px; background-color: #dddddd; ">or</button>
+	<button>Visit normally</button><br>
+
+
+	<!--<a style="color:#001f3f; border: 1px  #807c8e; border-radius: 5px; background-color: #01ff70; font-size: 18px; text-decoration: none;" href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=AddSession">use google account</a>-->
+	</div>
+
+
+<div >
+<title> matakemehome.home</title>
+<title>| We may look crazy, but we can. We may look disorganised, but we understand. I hate suffering. I deserve freedom. Please take me home</title>
+</div>
+<meta name="generator" content="Jekyll v3.7.3" />
+<meta property="og:title" content="matakemehome.home"/>
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="mama_takemehome" 
+<meta property="og:description" content="We may look crazy, but we can. We may look disorganised, but we understand. I hate suffering. I deserve freedom. Please take me home" />
+<link rel="canonical" href="https://innocentmagumba.github.io/matakemehome.home/" />
+<meta property="og:url" content="https://innocentmagumba.github.io/matakemehome.home/" />
+<meta property="og:site_name" content="matakemehome.home" />
+<script type="application/ld+json">
+{"name":"matakemehome.home","description":"We may look crazy, but we can. We may look disorganised, but we understand. I hate suffering. I deserve freedom. Please take me home","@type":"WebSite","url":"https://innocentmagumba.github.io/matakemehome.home/","headline":"matakemehome.home","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/matakemehome.home/assets/css/style.css?v=3354774c3c0c2bc74b7001015890363fc029f74c">
+  </head>
+  <body>
+    <section class="page-header">
+
+      <h2 style="align-items: center;  color: #4a6f70; border: 1px  solid powderblue; border-radius: 5px;  background-image:unset; background-repeat: repeat-x; text-align: center; border: 2px solid;width: auto;
+    " class="project-name">	mama_takemehome.home for the poor, the needy, the downfall and all of mankind</h2>
+
+    <div class="work1">
+    	<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+/*
+.title {
+  color: grey;
+  font-size: 18px;
+}*/
+
+/*button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+
+}*/
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+</style>
+</head>
+<body>
+
+<h2 style="text-align:center; color:#a67c00;"><em>Developer's Profile Card</em></h2>
+
+<div class="card">
+  <img src="stdphoto.png" alt="John" style="width:100%">
+  <h5 style="align-items: center; color: green; font-size: 22px;"><em>magumba innocent</em></h5>
+  <p style="color:#a67c00" class="title">CEO & Founder, <strong style="color:#a67c00">cxmusic7</strong></p>
+  <p>matakemehome.home</p>
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-dribbble"></i></a> 
+    <a href="#"><i class="fa fa-twitter"></i></a>  
+    <a href="https://ug.linkedin.com/in/magumba-innocent-b71513158"><i class="fa fa-linkedin"></i></a>  
+    <a href="#"><i class="fa fa-facebook"></i></a> 
+ </div>
+ <p><button>Contact</button></p>
+</div>
+
+</body>
+    </div>
+
+      <h2 style="color:#807c8e; border: 1px  solid powderblue; border-radius: 5px;  background-image:url(Shttps://upload.wikimedia.org/wikipedia/commons/b/b8/Street_Child,_Srimangal_Railway_Station.jpg); background-repeat: repeat-x; width: auto;" align="center" class="project-tagline">We may look crazy, but we can. We may look disorganised, but we understand. I hate suffering. I deserve freedom. Please take me home</h2>
+      
+      555555555555555555
+      <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+</head>
+
+      5555555555555555555555
+
+        
+      
+      
+    </section>
+
+    <section class="main-content">
+      
+<html>
+<head>
+
+	<title>matakemehome.home</title>
+</head>
+<body>
+	<h1 style="color: black; align-content:center;">TULI BANNO </h1><br><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Street_Child,_Srimangal_Railway_Station.jpg" width="450" height="300" alt="street children life. suffered life" title="suffered life/liffyge_ug" align="left" hspace="3" vspace="3" />
+	<h2>BULI OMU WAMUGASO</h2>
+	<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut <strong><em>labore et dolore magna</em></strong> aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	<div> However, the Master of <strong><em><a href="https://www.youtube.com/watch?v=4yRbweGhYdM" target="-blank">txesta</a></em></strong>  is back.</div>
+	<ul>
+		<p><strong>Many children and house workers like</strong> </p>
+		<li><em> football</em></li>
+		<li><em> netball</em></li>
+		<li><em>baseball</em></li>
+		<li><em>hockey</em></li>
+	</ul>
+	<ol>
+		<p><strong><em>And On Ranking, The Bellow Are More Prefered</em></strong></p>
+		<li>Football</li>
+		<li>Getball</li>
+		<li>Baseball</li>
+		<li>Teller</li>
+	</ol>
+	</p>
+	
+	
+	<table>
+		<thead>
+			<tr>
+				<th>NAME</th>
+				<th>EMAIL</th>
+				<th>AGE</th>
+			</tr>
+		</thead>
+
+		<tbody>
+			<tr>
+			<td>brone frank</td>
+			<td>j@n.m</td>
+			<td> 23</td>
+			</tr>
+			<tr>
+			<td>musoke green</td>
+			<td>reference@n.m</td>
+			<td> 56</td>
+			</tr>
+			<tr>
+			<td>abda abdanga</td>
+			<td>abdadada@n.m</td>
+			<td> 76</td>
+			</tr>
+			<tr>
+			<td>hellen gras</td>
+			<td>trerfefe@n.m</td>
+			<td> 89</td>
+			</tr>
+		</tbody>
+	</table>
+
+<div style="margin-top: 400px"></div>
+<body>
+<br>
+<h2 style="text-align: center; border-radius: 5px; ">Automatic Slideshow FOR images</h2>
+<p>Change image every 2 seconds:</p>
+<br>
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img  src="Street_Child,_Srimangal_Railway_Station
+.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img  src="Street_Child,_Srimangal_Railway_Station
+.jpg" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img  src="Street_Child,_Srimangal_Railway_Station
+.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+  <br>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+       slides[i].style.display = "none";  
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 3000); // Change image every 2 seconds
+}
+	
+	
+</script>
+<br>
+<button type="button" name="unset" style="align-content: center; color: green;" >others</button> 
+<br>
+<a style="color: currentColor; border-radius: 15px;" href="https://cxmusic7.blogspot.com/" class="btn"><em>View on blogspot  </em></a>
+        <a style="color: currentColor; border-radius: 15px;" href="https://plus.google.com/collection/0N0YOF" class="btn">  <em>View on google+</em></a>
+
+</body>
+<footer>
+<hr>
+	 <p>copyright &copy; 2018, <a href="https://www.youtube.com/channel/UCN0VKJ8PEtMFKKHeOwmZgNg"> <strong><em> innocentmagumba||myyoutube</em> </strong></a>. contact: +256 705155036</p>
+
+</footer>
+</body>
+
+</html>
+
+<hr>
+      <footer class="site-footer">
+        
+          <span class="site-footer-owner"><a href="https://www.youtube.com/channel/UC7dCMrYyVTVga3WQ7ps9xzA">matakemehome.home||musicyoutube</a> is maintained by <a href="https://plus.google.com/collection/0N0YOF">INNOCENTMAGUMBA</a>.</span>
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://innocentmagumba.github.io/matakemehome.home">GitHub Pages||seeonpages</a>.</span>
+       
+      </footer>
+    </section>
+
+    
+  </body>
+  <hr>
+  <hr>
+</html>
